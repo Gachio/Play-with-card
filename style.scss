@@ -13,7 +13,8 @@ body, html {
   background: white;
   padding: 2rem;
   transition: 1s;
-  &.away {
+}
+
+.away {
     transform: translateY(-2000px);
   }
-}
