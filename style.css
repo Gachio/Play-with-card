@@ -1,6 +1,7 @@
-$bgcolor: purple;
+/* $bgcolor: purple; */
+
 html {
-  background: $bgcolor;
+  background-color: purple;
 }
 
 body, html {
