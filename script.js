@@ -1,4 +1,4 @@
-console.clear();
+
 
 let button = 
  document.querySelector("button");
